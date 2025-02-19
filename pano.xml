@@ -13,10 +13,11 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata title="" datetime="2024:02:11 19:46:30" nodeid="node1" heading="0" description="" customnodeid="" latitude="" source="" comment="" tags="CHAL" longitude="" author="" copyright="" info=""/>
+    <userdata title="" datetime="2024:02:11 19:46:30" nodeid="node1" heading="0" description="" customnodeid="" latitude="-25.41459910" source="" comment="" tags="CHAL" longitude="-49.32156250" author="" copyright="" info=""/>
     <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
       <label backgroundalpha="1" borderradius="1" borderalpha="1" border="1" width="180" bordercolor="0x000000" height="20" textcolor="0x000000" textalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff" background="1"/>
       <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="" skinid="ht_node" url="{node10}" description="" target="$fwd" distance="7.67017" id="Point01" tilt="0" pan="60.2584"/>
     </hotspots>
     <media>
       <video ambientlevel="0.000" fov="66.265" nodechangekeep="0" hidepinned="0" width="4096" tilt="-13.635" tiltsize="10.000" height="2160" rotx="-18.906" handcursor="0" field="90.000" rotz="-0.179" popbackmode="0" mode="3" startmutedmobile="0" pansize="10.000" stretch="2.000" id="Element01" popoutscaling="100" roty="4.452" level="1.000" clickmode="0" pan="66.249" loop="1">
@@ -224,7 +225,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata title="" datetime="2024:02:11 19:42:34" nodeid="node10" heading="0" description="" customnodeid="" latitude="" source="" comment="" tags="CHAL" longitude="" author="" copyright="" info=""/>
+    <userdata title="" datetime="2024:02:11 19:42:34" nodeid="node10" heading="0" description="" customnodeid="" latitude="-25.41456488" source="" comment="" tags="CHAL" longitude="-49.32162881" author="" copyright="" info=""/>
     <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
       <label backgroundalpha="1" borderradius="1" borderalpha="1" border="1" width="180" bordercolor="0x000000" height="20" textcolor="0x000000" textalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff" background="1"/>
       <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
