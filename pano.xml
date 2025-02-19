@@ -13,15 +13,15 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata title="" datetime="2024:02:11 19:46:30" nodeid="node1" heading="0" description="" customnodeid="" latitude="-25.41459910" source="" comment="" tags="CHAL" longitude="-49.32156250" author="" copyright="" info=""/>
+    <userdata title="" datetime="2024:02:11 19:46:30" nodeid="node1" heading="0" description="" customnodeid="" latitude="-25.41442468" source="" comment="" tags="CHAL" longitude="-49.32165906" author="" copyright="" info=""/>
     <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
       <label backgroundalpha="1" borderradius="1" borderalpha="1" border="1" width="180" bordercolor="0x000000" height="20" textcolor="0x000000" textalpha="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff" background="1"/>
       <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot title="" skinid="ht_node" url="{node10}" description="" target="$fwd" distance="7.67017" id="Point01" tilt="0" pan="60.2584"/>
+      <hotspot title="" skinid="ht_node" url="{node10}" description="" target="$fwd" distance="15.8828" id="Point01" tilt="0" pan="-168.972"/>
     </hotspots>
     <media>
-      <video ambientlevel="0.000" fov="66.265" nodechangekeep="0" hidepinned="0" width="4096" tilt="-13.635" tiltsize="10.000" height="2160" rotx="-18.906" handcursor="0" field="90.000" rotz="-0.179" popbackmode="0" mode="3" startmutedmobile="0" pansize="10.000" stretch="2.000" id="Element01" popoutscaling="100" roty="4.452" level="1.000" clickmode="0" pan="66.249" loop="1">
-        <source url="media/chales 3.mp4"/>
+      <video ambientlevel="0.000" fov="44.319" nodechangekeep="0" hidepinned="0" width="2160" tilt="-27.433" tiltsize="10.000" height="4096" rotx="-41.864" handcursor="0" field="90.000" rotz="-0.581" popbackmode="0" mode="3" startmutedmobile="0" pansize="10.000" stretch="0.500" id="Element01" popoutscaling="100" roty="-0.874" level="1.000" clickmode="0" pan="65.288" loop="1">
+        <source url="media/chales 2.mp4"/>
       </video>
     </media>
     <transition zoomin="0" zoomafterinfov="140" delay="none" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendtime="1" zoomfov="40"/>
@@ -231,8 +231,8 @@
       <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
     </hotspots>
     <media>
-      <webelement fov="99.078" hidepinned="0" width="560" tilt="30.807" height="315" rotx="27.141" handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qLQu978vwQc?si=5nhttFEDakfvOuoM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" rotz="-4.748" popbackmode="0" permeable="0" popoutscaling="100" stretch="1.603" id="Element01" roty="6.608" clickmode="0" pan="173.156"/>
-      <video ambientlevel="0.000" fov="85.960" nodechangekeep="0" hidepinned="0" width="4096" tilt="56.220" tiltsize="10.000" height="2160" rotx="48.370" handcursor="1" field="90.000" rotz="18.160" popbackmode="0" mode="1" startmutedmobile="0" pansize="10.000" stretch="1.969" id="Element02" popoutscaling="100" roty="-8.240" level="1.000" clickmode="2" pan="91.670" loop="1">
+      <webelement fov="33.859" hidepinned="0" width="560" tilt="24.517" height="315" rotx="50.616" handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qLQu978vwQc?si=5nhttFEDakfvOuoM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" rotz="12.873" popbackmode="0" permeable="0" popoutscaling="100" stretch="2.000" id="Element01" roty="-7.812" clickmode="0" pan="172.032"/>
+      <video ambientlevel="0.000" fov="48.894" nodechangekeep="0" hidepinned="0" width="4096" tilt="47.761" tiltsize="10.000" height="2160" rotx="22.147" handcursor="1" field="90.000" rotz="13.495" popbackmode="0" mode="1" startmutedmobile="0" pansize="10.000" stretch="1.601" id="Element02" popoutscaling="100" roty="-6.272" level="1.000" clickmode="2" pan="90.429" loop="1">
         <source url="media/chales 3-1.mp4"/>
       </video>
     </media>
